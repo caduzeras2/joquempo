@@ -1,0 +1,163 @@
+.conteiner{ 
+    height: 100%;
+    width: 100%;
+    background-color: #82CDFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.box-leaderboard{ 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.battle-field{
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+     width: 1788px;
+     height: 414px;
+}
+
+.battle-play{ 
+    width: 1313px;
+    height: 414px;
+    background-color: #0099FF;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image-field-wrapper{ 
+    width: 1244px;
+    height: 345px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.image-field{ 
+    width: 464px;
+    height: 345px;
+    background-color: #ffffff;
+    border-radius: 11px;
+}
+
+.winner{ 
+    height: 74px;
+    background-color: #0099FF;
+    min-width: 430px;
+    width: fit-content;
+    border-radius: 11px 11px 0px 0px;
+    font-size: 33px;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 10px;
+}
+
+.scoreboarder-box{ 
+    height: 149px;
+    background-color: #0099FF;
+    min-width: 949px;
+    border-radius: 11px 11px 11px 11px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 55px;
+}
+
+.player-name{ 
+    min-width: 199px;
+    width: fit-content;
+    height: 51px;
+    color: #ffffff;
+    font-size: 38px;
+    justify-content: space-evenly;
+}
+
+.player-point{ 
+    width: 113;
+    height: 138;
+    background-color: #ffffff;
+    font-size: 104px;
+    color: #0099FF;
+    border-radius: 11px 11px 11px 11px;
+    margin: 5px;
+}
+
+.separator{ 
+    width: 74px;
+    height: 78px;
+    color: #ffffff;
+    font-size: 58px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.scoreboarder-box{ 
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 33px;
+}
+
+.button-move{
+     width: 220px;
+     height: 80px;
+     background-color: #0099FF;
+     color: #ffffff;
+     font-size: 44px;
+     border: none;
+     border-radius: 8px;
+     padding-top: 15px;
+     font-weight: 600;
+     display: flex;
+     justify-content: center;
+}
+
+.button-wrapper{ 
+    height: 414px;
+    width: 220px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-left: 17px;
+    margin-right: 17px;
+    
+}
+
+.separator-field{
+     width: 132px;
+     height: 138px;
+     color: #ffffff;
+     font-size: 104px;
+     font-weight: 900;
+}
+
+.start-reset-field{ 
+    width: 577px;
+    height: 69px;
+    color: #ffffff;
+    display: flex;
+    justify-content: space-between;
+}
+
+.iniciar-resetar{
+   width: 238px;
+   height: 69px;
+   background-color: #0099FF;
+   margin-top: 15px;
+   color: #ffffff;
+   font-size: 33px;
+   font-weight: 600;
+   border: none;
+   border-radius: 11px;
+}
+
